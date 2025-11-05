@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=Hi%20there%20안녕하세요%20!%20👋&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=100&section=header&text=Hi%20there%20안녕하세요%20!%20👋&fontSize=50)
 <br>
 ## 👀 About Me
   #### :snowflake: I am a Backend Developer from South Korea.<br/>

@@ -1,9 +1,10 @@
-## Hi there 안녕하세요 !👋
-
+## Hi there 안녕하세요 !
+![header](https://capsule-render.vercel.app/api?type=speech&color=77DDFF&height=300&section=header&text=Hi%20there%20안녕하세요%20!%20👋&fontSize=70)
 <br>
 <h3 align = "center"> 🌱 Tech Stack </h3>
 <div align = "center">
   <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src = "https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 <!--
 **sihyeon0102/sihyeon0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-
+<img width="1682" height="528" alt="image" src="https://github.com/user-attachments/assets/b21bfb35-2d9c-4970-a823-5d2fbb89613a" />
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=100&section=header&text=Hi%20there%20안녕하세요%20!%20👋&fontSize=50)
 <br>
 ## 👀 About Me
@@ -26,7 +26,7 @@
 <h3 align = "center"> :bookmark: Interest </h3>
 <div align = "center">
    <img src = "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-   <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws" />
+   <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 

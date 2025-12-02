@@ -1,4 +1,3 @@
-<img width="1682" height="528" alt="image" src="https://github.com/user-attachments/assets/b21bfb35-2d9c-4970-a823-5d2fbb89613a" />
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=100&section=header&text=Hi%20there%20안녕하세요%20!%20👋&fontSize=50)
 <br>
 ## 👀 About Me
